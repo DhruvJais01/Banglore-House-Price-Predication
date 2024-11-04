@@ -11,4 +11,18 @@
 
 ![img_2.png](img_2.png)
 
-# HEllo MF
+--- 
+
+# Deploy machine learning model to production nginx
+
+![alt text](image.png)
+
+![alt text](image-1.png)
+changes in ngix.conf
+![alt text](image-2.png)
+
+# Deploy machine learning model to production AWS (Amazon EC2 instance)
+
+
+
+https://youtu.be/q8NOmLD5pTU?si=fJhWzLoig6xQeL5a
